@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Sunshine</string>
+    <string name="watchface_name">Sunshine</string>
+
+    <string name="am">AM</string>
+    <string name="pm">PM</string>
+
+    <!-- Days -->
+    <string name="sunday" translatable="true">Sunday</string>
+    <string name="monday" translatable="true">Monday</string>
+    <string name="tuesday" translatable="true">Tuesday</string>
+    <string name="wednesday" translatable="true">Wednesday</string>
+    <string name="thursday" translatable="true">Thursday</string>
+    <string name="friday" translatable="true">Friday</string>
+    <string name="saturday" translatable="true">Saturday</string>
+
+    <!-- Months -->
+    <string name="january" translatable="true">Jan</string>
+    <string name="february" translatable="true">Feb</string>
+    <string name="march" translatable="true">Mar</string>
+    <string name="april" translatable="true">Apr</string>
+    <string name="may" translatable="true">May</string>
+    <string name="june" translatable="true">Jun</string>
+    <string name="july" translatable="true">Jul</string>
+    <string name="august" translatable="true">Aug</string>
+    <string name="september" translatable="true">Sep</string>
+    <string name="october" translatable="true">Oct</string>
+    <string name="november" translatable="true">Nov</string>
+    <string name="december" translatable="true">Dec</string>
+</resources>
