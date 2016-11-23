@@ -1,3 +1,10 @@
+Project 6 - Go Ubiquitous
+-------------------------
+Added an Android Wear Watchface for the Sunshine app from the Advanced Android Development course at Udacity for submission
+towards the Android Development Nanodegree course.
+
+
+
 Advanced Android Sample App
 ===================================
 
